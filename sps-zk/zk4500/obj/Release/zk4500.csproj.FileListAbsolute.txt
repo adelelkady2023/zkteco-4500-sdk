@@ -1,0 +1,14 @@
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\bin\Release\zk4500.exe.config
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\bin\Release\zk4500.exe
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\bin\Release\zk4500.pdb
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\bin\Release\AxInterop.ZKFPEngXControl.dll
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\bin\Release\Interop.ZKFPEngXControl.dll
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\bin\Release\stdole.dll
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\obj\Release\zk4500.csproj.AssemblyReference.cache
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\obj\Release\zk4500.Form1.resources
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\obj\Release\zk4500.Properties.Resources.resources
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\obj\Release\zk4500.csproj.GenerateResource.cache
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\obj\Release\zk4500.csproj.CoreCompileInputs.cache
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\obj\Release\zk4500.csproj.CopyComplete
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\obj\Release\zk4500.exe
+D:\ssd 250\visual studio\zkteco\ZKTeco-ZK4500-master\ZKTeco-ZK4500-master\zk4500\obj\Release\zk4500.pdb
